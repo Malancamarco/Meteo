@@ -8,6 +8,10 @@ body {
     margin: 0;
 }
 
+#name{
+    color: white;
+}
+
 #weather-container {
     background: rgba(255, 255, 255, 0.15);
     max-width: 400px;
